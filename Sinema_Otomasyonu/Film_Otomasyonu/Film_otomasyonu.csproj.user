@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminGiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AktörKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Aktörler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AktörSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bilet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BiletsSorgula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirişEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Filmler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayıtlıKullanıcılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalonKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yönetmenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
